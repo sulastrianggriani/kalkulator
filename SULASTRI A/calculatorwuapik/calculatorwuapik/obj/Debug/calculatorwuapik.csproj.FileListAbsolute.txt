@@ -1,0 +1,10 @@
+D:\Nia Elek\calculatorwuapik\calculatorwuapik\obj\Debug\calculatorwuapik.csprojAssemblyReference.cache
+D:\Nia Elek\calculatorwuapik\calculatorwuapik\obj\Debug\calculatorwuapik.Form1.resources
+D:\Nia Elek\calculatorwuapik\calculatorwuapik\obj\Debug\calculatorwuapik.Properties.Resources.resources
+D:\Nia Elek\calculatorwuapik\calculatorwuapik\obj\Debug\calculatorwuapik.csproj.GenerateResource.cache
+D:\Nia Elek\calculatorwuapik\calculatorwuapik\obj\Debug\calculatorwuapik.csproj.CoreCompileInputs.cache
+D:\Nia Elek\calculatorwuapik\calculatorwuapik\bin\Debug\calculatorwuapik.exe.config
+D:\Nia Elek\calculatorwuapik\calculatorwuapik\bin\Debug\calculatorwuapik.exe
+D:\Nia Elek\calculatorwuapik\calculatorwuapik\bin\Debug\calculatorwuapik.pdb
+D:\Nia Elek\calculatorwuapik\calculatorwuapik\obj\Debug\calculatorwuapik.exe
+D:\Nia Elek\calculatorwuapik\calculatorwuapik\obj\Debug\calculatorwuapik.pdb
